@@ -58,6 +58,8 @@ hr {
   display: inline-block !important;
   margin: 0px 6px;
 }
+.tableNormal .startPosQ {
+  min-width: 33.33%;
 
 #container {
   margin: auto;
